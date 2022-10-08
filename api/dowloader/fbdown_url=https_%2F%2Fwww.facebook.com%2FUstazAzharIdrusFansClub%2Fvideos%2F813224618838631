@@ -1,0 +1,21 @@
+{
+  "status": true,
+  "creator": "TioDev",
+  "result": {
+    "source": "facebook",
+    "links": [
+      {
+        "url": "https://video-lhr8-1.xx.fbcdn.net/v/t42.9040-2/10000000_200301210496317_9025557336533499904_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjMyNCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=la9zrj5pYeUAX-AfXjD&rl=324&vabr=180&_nc_ht=video-lhr8-1.xx&oh=00_AT-4Kjm0j86wJYuNjpVaRjtBdPogiaQiBG0F8wXd7pgsiw&oe=6343012A&dl=1",
+        "type": "mp4",
+        "bytes": 67404042,
+        "size": "64.28 MB",
+        "quality": "SD",
+        "mute": false
+      }
+    ],
+    "title": "Facebook Video",
+    "thumbnail": "https://scontent-lhr8-1.xx.fbcdn.net/v/t15.5256-10/19291833_813225948838498_8833296067580657664_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=df419e&_nc_ohc=flnwge9riagAX9eT-ce&_nc_ht=scontent-lhr8-1.xx&oh=00_AT_A9KUuU3Nzhe1SHjcvxaPavhoJdLnC6xcMdR8By3bBwQ&oe=6347CBB9",
+    "video_url": "https://www.facebook.com/UstazAzharIdrusFansClub/videos/813224618838631/token=undefined",
+    "client_ip": "34.127.29.123"
+  }
+}
